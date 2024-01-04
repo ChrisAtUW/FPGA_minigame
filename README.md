@@ -15,9 +15,9 @@ Press play to start video.
 ## Game Instructions
 
 Inputs:
--Press Key 3 to go up once, hold to continue going up.
--Flip Switch 0 off to pause the game and on to resume.
--Flip Switch 9 on and then back to off to reset.
+-Press Key 3 to go up once, hold to continue going up
+-Flip Switch 0 off to pause the game and on to resume
+-Flip Switch 9 on and then back to off to reset
 	
 Description:
 
