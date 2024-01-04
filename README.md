@@ -14,12 +14,12 @@ Press play to start video.
 
 ## Game Instructions
 
-Inputs:
+### Inputs:
 -Press Key 3 to go up once, hold to continue going up
 -Flip Switch 0 off to pause the game and on to resume
 -Flip Switch 9 on and then back to off to reset
 	
-Description:
+### Description:
 
 Control your bird to fly between the trees, try not to bump into the trees otherwise you die. You will also die if your bird falls off the map. Once you make it to the otherside of all the trees you will win and your score will increment and display on the HEX displays. When you win the trees reset for the next round, but your bird and score will still be in the same place. If you die, your score and everything will reset.
 
