@@ -8,6 +8,7 @@ The following code is written in SystemVerilog and is meant to synthesized and u
 
 ### Video Demonstration of Game Functionality
 
+[![Watch the video]](https://www.youtube.com/shorts/7P1yJe8T37c)
 
 
 Press play to start video.
