@@ -9,7 +9,7 @@ The following code is written in SystemVerilog and is meant to synthesized and u
 ### Video Demonstration of Game Functionality
 
 
-https://github.com/ChrisAtUW/FPGA_minigame/assets/146300146/d8d84504-54a5-4f33-b673-598d9fa5bc38
+https://github.com/ChrisAtUW/FPGA_minigame/assets/146300146/f0d137b0-1e2f-4345-a508-5066aeac3b16
 
 
 Press play to start video.
