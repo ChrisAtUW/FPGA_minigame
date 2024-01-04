@@ -8,7 +8,8 @@ The following code is written in SystemVerilog and is meant to synthesized and u
 
 ### Video Demonstration of Game Functionality
 
-[![Watch the video]](https://www.youtube.com/shorts/7P1yJe8T37c)
+
+https://github.com/ChrisAtUW/FPGA_minigame/assets/146300146/d8d84504-54a5-4f33-b673-598d9fa5bc38
 
 
 Press play to start video.
